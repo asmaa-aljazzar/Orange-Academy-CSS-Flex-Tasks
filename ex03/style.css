@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 420px;
+    height: 330px;
+    border: 2px solid #77a6b6;
+    margin: 100px auto;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    padding: 13px 65px 13px 13px ;
+    width: auto;
+    font-size: large;
+    color: white;
+    background-color: #4d7298;
+}

@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    height: 390px;
+    background-color: #8b008b;
+    margin: 100px auto;
+    display: flex;
+    flex-direction: row;
+}
+
+.box {
+    width: 15%;
+    height: 141px;
+    background-color: white;
+    margin: 5px
+}
