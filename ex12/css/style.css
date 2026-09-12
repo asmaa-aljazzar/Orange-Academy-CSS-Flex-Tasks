@@ -60,7 +60,6 @@ header {
 
 .search-btn {
     width: 12%;
-    color: white;
 }
 
 .search-btn i {
@@ -84,6 +83,7 @@ header {
     border-top-left-radius: 30px ;
     border-bottom-left-radius: 30px;
     padding: 10px;
+    color: white;
     background-color:#0f0f0f;
 }
 
