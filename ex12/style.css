@@ -83,7 +83,7 @@ header {
     border-top-left-radius: 30px ;
     border-bottom-left-radius: 30px;
     padding: 10px;
-    color: white;
+    color: white !important;
     background-color:#0f0f0f;
 }
 
