@@ -84,12 +84,9 @@ header {
     border-bottom-left-radius: 30px;
     padding: 10px;
     background-color:#0f0f0f;
-}
-
-input {
     color: white;
-}
 
+}
 
 .logo {
     display: flex;
